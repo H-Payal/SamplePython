@@ -1,1 +1,1 @@
-# SamplePython
+# Sample Python programs for testing
