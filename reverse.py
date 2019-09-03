@@ -11,3 +11,14 @@ print("Given String: ", mystr)
 
 # reversed string
 print("Reversed String: ", reverse(mystr))
+
+
+printf"hhhhhhiiiiiiiiiiiiii"
+
+
+jhwrgfc
+{}
+;;
+{
+
+    }
