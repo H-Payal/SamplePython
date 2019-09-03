@@ -1,8 +1,5 @@
     # Program make a simple calculator that can add, subtract, multiply and divide using functions
-     errors
-     added
-     second
-     time?:}?:{?:}
+    
     # define functions
     def add(x, y):
        """This function adds two numbers"""
