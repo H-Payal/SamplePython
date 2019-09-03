@@ -13,12 +13,3 @@ print("Given String: ", mystr)
 print("Reversed String: ", reverse(mystr))
 
 
-printf"hhhhhhiiiiiiiiiiiiii"
-
-
-jhwrgfc
-{}
-;;
-{
-
-    }
