@@ -3,7 +3,13 @@ def reverse(str):
     for ch in str:
         s = ch + s
     return s
+{}
 
+gjb,
+''';
+
+jlkjl
+errors added
 
 # given string
 mystr = "BeginnersBook"
